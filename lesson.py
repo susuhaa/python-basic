@@ -48,6 +48,16 @@ station = "사당"
 #출력문장 : xx행 열차가 들어오고 있습니다.
 print(station+"행 열차가 들어오고 있습니다.")
 
+print(1+1)
+
+print(2**3) #2^3 =8
+print(5%3) # 나머지 구하기 2
+print(10%3) # 1
+print(5//3)
+print(10//3)
+
+print(10>3)
+print(4>=7)
 
 
 
