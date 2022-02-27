@@ -66,6 +66,10 @@ print(3+4 == 7)
 print(1 != 3)
 print(not(1 !=3))
 
+print((3>0) or (3>5)) # True
+print ( 5> 4 >3)
+print(5 > 4> 7)
+
 
 
 

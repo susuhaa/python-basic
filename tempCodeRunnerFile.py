@@ -1,1 +1,1 @@
-,"신도림","인천공항"
+print(python.index("Java"))
